@@ -1,0 +1,32 @@
+19:43:09.200 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+14:40:22.370 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+14:40:24.865 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+14:40:28.260 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+14:40:30.637 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+14:41:25.211 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+14:41:27.676 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+14:41:31.841 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+14:41:34.266 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+14:42:16.016 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+14:42:18.238 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+14:42:23.664 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+14:42:25.957 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+20:00:06.290 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+20:00:10.261 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+20:00:13.898 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+20:00:17.521 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+14:47:12.909 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\sel-java-proj\OpencartV121\master.xml"
+14:47:20.398 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+14:47:23.623 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+14:47:27.592 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+14:47:30.323 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+08:11:39.415 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\sel-java-proj\OpencartV121\master.xml"
+08:11:45.222 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+08:11:47.622 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+08:11:51.426 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+08:11:53.799 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+08:28:57.918 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\sel-java-proj\OpencartV121\master.xml"
+08:29:02.035 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+08:29:04.401 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+08:29:08.098 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+08:29:10.482 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************

@@ -1,0 +1,48 @@
+10:38:31.273 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:38:31.303 [main] INFO  testCases.TC003_LoginCheck - ********Started TC003_LoginCheck********
+10:38:33.697 [main] INFO  testCases.TC003_LoginCheck - ********Finished TC003_LoginCheck********
+10:38:33.706 [main] INFO  testCases.TC003_LoginCheck - ********Started TC003_LoginCheck********
+10:38:44.701 [main] INFO  testCases.TC003_LoginCheck - ********Finished TC003_LoginCheck********
+10:38:44.701 [main] INFO  testCases.TC003_LoginCheck - ********Started TC003_LoginCheck********
+10:38:55.740 [main] INFO  testCases.TC003_LoginCheck - ********Finished TC003_LoginCheck********
+10:38:55.750 [main] INFO  testCases.TC003_LoginCheck - ********Started TC003_LoginCheck********
+10:39:06.774 [main] INFO  testCases.TC003_LoginCheck - ********Finished TC003_LoginCheck********
+10:39:06.790 [main] INFO  testCases.TC003_LoginCheck - ********Started TC003_LoginCheck********
+10:39:17.419 [main] INFO  testCases.TC003_LoginCheck - ********Finished TC003_LoginCheck********
+08:06:47.154 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+08:06:49.405 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+08:06:52.963 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+08:06:54.341 [main] ERROR testCases.TC004_ClickComputers - Test Failed...
+08:06:54.341 [main] DEBUG testCases.TC004_ClickComputers - Debug logs...
+08:07:43.679 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+08:09:02.823 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+08:09:34.800 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+08:09:36.829 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+11:36:22.903 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+11:36:26.112 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+11:37:26.968 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+11:37:29.634 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+11:37:33.727 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+11:37:36.154 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+11:44:14.087 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
+11:44:16.325 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Completed**************
+11:44:19.913 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+11:50:05.303 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+11:50:07.348 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:28:11.238 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:28:14.413 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:31:02.506 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:31:05.742 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:32:23.051 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:32:26.484 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:33:23.523 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:33:27.661 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:33:59.161 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:34:03.808 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:40:59.575 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:41:02.321 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:41:22.913 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:41:25.800 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:42:58.477 [main] INFO  testCases.TC004_ClickComputers - **********Started ClickComputersLink*************
+19:43:01.613 [main] INFO  testCases.TC004_ClickComputers - **********Completed ClickComputersLink*************
+19:43:05.870 [main] INFO  testCases.TC002_WebLoginTest - *********WebShop-Login-Verification**********
